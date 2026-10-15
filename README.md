@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - User registration and subscription to trips
 - Company dashboard for managing offers and trips
@@ -28,6 +28,5 @@
 - **Database**:  
   - SQL Server (database first)
 
-- **Others**:
-  - RESTful APIs  
+- **Others**: 
   - Authentication and authorization using basic session.
